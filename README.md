@@ -1,6 +1,6 @@
 # RSA Factoring Challenge
 ---
-## 0. Factorize all the things!
+## 0. [Factorize all the things!](https://github.com/Sank-rah/RSA-Factoring-Challenge/blob/master/factors)
 ---
 Factorize as many numbers as possible into a product of two smaller numbers.
 
@@ -17,7 +17,7 @@ p and q don’t have to be prime numbers
 ---
 ---
 
-## 1. RSA Factoring Challenge
+## 1. [RSA Factoring Challenge](https://github.com/Kai-Deux/RSA-Factoring-Challenge/blob/main/rsa)
 ---
 RSA Laboratories states that: for each RSA number n, there exist prime numbers p and q such that
 
